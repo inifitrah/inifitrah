@@ -1,11 +1,13 @@
-### Hi there 👋
+### Hi 👋 I'm a web dev
 
 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ini.fitrah/)
 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:mftrhr@gmail.com)
 
-
+## Languages a used
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
 
 **inifitrah/inifitrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
