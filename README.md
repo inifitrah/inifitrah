@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 
+
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ini.fitrah/)
+
+
+
+
 **inifitrah/inifitrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
