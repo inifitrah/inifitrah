@@ -1,4 +1,6 @@
-# Hi 👋 I'm a web dev
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+My+Name's+Fitrah..;+I'm+a+web+developer..)](https://git.io/typing-svg)
+
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" alt="gif" />
 
 ## Contact me
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/ini.fitrah/)
