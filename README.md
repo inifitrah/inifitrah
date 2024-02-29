@@ -1,6 +1,5 @@
-<h1>Hi👋</h1>
 <img src="https://raw.githubusercontent.com/inifitrah/inifitrah/master/20221216_071642.png"/>
-
+<h1>Hi👋</h1>
 ## Language a used
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
 
