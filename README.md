@@ -1,5 +1,4 @@
-Hello 👋,
-I'm a problem solver.
+Hi 👋,
 
 ![https://github-readme-stats.vercel.app/api?username=inifitrah&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=inifitrah&hide=contribs,prs,issues)
 
